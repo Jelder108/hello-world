@@ -1,2 +1,2 @@
 # hello-world
-Hey, Im starting out trying to learn Html and CSS, I then thought I would give Java a try.
+Hey, Im starting out trying to learn Html and CSS, I hope to move into Java once ive gotten a better feel of what I should be doing.
